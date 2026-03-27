@@ -8,6 +8,8 @@ ShopEasy, an online retail business, is facing reduced customer engagement and c
 - Customer Engagement Rate: Level of interaction with marketing content (clicks, likes, comments).
 - Average Order Value (AOV): Average amount spent by a customer per transaction.
 - Customer Feedback Score: Average rating from customer reviews.
+## Process
+This project follows a structured workflow using SQL, Python, and Power BI. Data was extracted and transformed using SQL, enhanced with sentiment analysis in Python, and visualized through an interactive Power BI dashboard.
 
 
 
