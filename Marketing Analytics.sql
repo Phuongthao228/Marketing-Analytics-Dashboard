@@ -1,4 +1,4 @@
--- Categorize products based on their pricc
+-- Categorize products based on their price
 select * from dbo.products 
 select ProductID, ProductName, Price,
 	case
