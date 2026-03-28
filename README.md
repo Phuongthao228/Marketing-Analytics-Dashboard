@@ -21,7 +21,7 @@ This project follows a structured workflow using SQL, Python, and Power BI. Data
 - Audience engagement followed a declining trend after peaking in January, likely driven by post-holiday seasonality and reduced marketing intensity. While blog content proved to be the most effective driver of views—especially early in the year—social media and video content gradually lost traction over time. Despite lower clicks and likes relative to views, the 6.17% click-through rate indicates that users who do engage remain highly valuable, suggesting a need to focus on improving content engagement and stronger calls to action.
 - From a customer perspective, satisfaction levels are generally positive, with the majority of reviews rated 4 and 5 stars and positive sentiment dominating overall feedback. However, the average rating of 3.66 falls below the target benchmark, and the presence of negative and mixed sentiment highlights areas where product quality and customer experience can be improved—particularly for lower-rated products. Addressing these concerns presents a clear opportunity to elevate overall satisfaction and drive higher conversions.
 - In summary, while the business demonstrates strong performance during peak seasonal periods and maintains a generally satisfied customer base, there is significant potential to:
-Improve conversion rates in low-performing months through targeted marketing strategies
+---Improve conversion rates in low-performing months through targeted marketing strategies
 Enhance engagement across social and video channels
 Increase customer satisfaction by addressing mixed and negative feedback
 
