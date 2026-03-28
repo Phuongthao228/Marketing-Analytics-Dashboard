@@ -10,6 +10,7 @@ ShopEasy, an online retail business, is facing reduced customer engagement and c
 - Customer Feedback Score: Average rating from customer reviews.
 ## Process
 This project follows a structured workflow using SQL, Python, and Power BI. Data was extracted and transformed using SQL, enhanced with sentiment analysis in Python, and visualized through an interactive Power BI dashboard.
-
+## Dashboard
+<img width="603" height="341" alt="Dashboard_overview_screenshot" src="https://github.com/user-attachments/assets/9395aeb9-70e6-4ce3-a47c-72c8ad1c26f7" />
 
 
