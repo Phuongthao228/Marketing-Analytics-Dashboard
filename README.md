@@ -9,7 +9,10 @@ ShopEasy, an online retail business, is facing reduced customer engagement and c
 - Average Order Value (AOV): Average amount spent by a customer per transaction.
 - Customer Feedback Score: Average rating from customer reviews.
 ## Process
-This project follows a structured workflow using SQL, Python, and Power BI. Data was extracted and transformed using SQL, enhanced with sentiment analysis in Python, and visualized through an interactive Power BI dashboard.
+- KPI Definition & Problem Framing: Defined key marketing KPIs (Conversion Rate, Engagement Rate, AOV, Customer Feedback Score) to evaluate performance and guide analysis.
+- Data Cleaning & SQL Transformation: Cleaned and transformed marketing data using SQL, including handling duplicates, normalizing fields, and enriching datasets through joins and feature engineering.
+- Sentiment Analysis with Python: Applied VADER sentiment analysis in Python to evaluate customer reviews and generate sentiment scores. Classified feedback into meaningful categories by combining text sentiment with rating data.
+- Interactive Dashboard in Power BI: Built a Power BI data model with customers, products, calendar, and engagement data. Created DAX measures and an interactive dashboard highlighting KPIs like 9.57% conversion rate, social media engagement, and 3.69 average rating. Delivered actionable insights on conversions, social media, and customer reviews for data-driven decisions.
 ## Dashboard
 <img width="603" height="341" alt="Dashboard_overview_screenshot" src="https://github.com/user-attachments/assets/9395aeb9-70e6-4ce3-a47c-72c8ad1c26f7" />
 <img width="599" height="340" alt="Dashboard_conversion_screenshot" src="https://github.com/user-attachments/assets/6dccd649-c65b-4da6-8b57-970d9860d4c8" />
